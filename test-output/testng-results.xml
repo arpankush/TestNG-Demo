@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-13T21:10:24 IST" name="Suite" finished-at="2021-02-13T21:10:24 IST" duration-ms="143">
+    <groups>
+    </groups>
+    <test started-at="2021-02-13T21:10:24 IST" name="Test" finished-at="2021-02-13T21:10:24 IST" duration-ms="143">
+      <class name="com.test.TestCases.TestCase1">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="BeforeSuite" finished-at="2021-02-13T21:10:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="beforeTest" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="BeforeClass" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod1()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="BeforeMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method signature="Test1()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="Test1" finished-at="2021-02-13T21:10:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="AfterMethod1()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="AfterMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+        <test-method is-config="true" signature="BeforeMethod1()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="BeforeMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method signature="Test2()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="Test2" finished-at="2021-02-13T21:10:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="AfterMethod1()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="AfterMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="AfterClass" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="AfterTest" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:com.test.TestCases.TestCase1@770d3326]" started-at="2021-02-13T21:10:24 IST" name="AfterSuite" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.test.TestCases.TestCase1 -->
+      <class name="com.test.TestCases.TestCase2">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="BeforeSuite" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="beforeTest" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="BeforeClass" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="BeforeMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method signature="Test1()[pri:-1, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="Test1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="AfterMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+        <test-method is-config="true" signature="BeforeMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="BeforeMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method signature="Test2(int, int)[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="Test2" finished-at="2021-02-13T21:10:24 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="AfterMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+        <test-method is-config="true" signature="BeforeMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="BeforeMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method signature="Test3()[pri:1, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="Test3" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterClass" finished-at="2021-02-13T21:10:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterMethod1()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterMethod1" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterTest" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:com.test.TestCases.TestCase2@4cc8eb05]" started-at="2021-02-13T21:10:24 IST" name="AfterSuite" finished-at="2021-02-13T21:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.test.TestCases.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
